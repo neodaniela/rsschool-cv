@@ -22,3 +22,29 @@ However, it is impossible to tell about everything in a nutshell.
 **In IT we trust!**
 
 ---
+## **Skills**
+- HTML5, CSS3
+- JavaScript Basics
+- Git
+- Kibana
+- Jenkins
+- MongoDB, Oracle SQL
+- Selenium, Playwright
+- Adobe Photoshop, Figma
+
+---
+## **Code example**
+> *In this assignment, our testArray function is passed two random arrays of detected random numbers. You need to count the number of all array elements and return it from the function.*
+
+```javascript
+function testArray(a, b) {
+    let sum = 0;
+    for (let i = 0; i < a.length; i++) {
+        sum += a[i];
+    }
+    for (let i = 0; i < b.length; i++) {
+        sum += b[i];
+    }
+    return sum;
+}
+```
