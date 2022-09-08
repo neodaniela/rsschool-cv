@@ -1,4 +1,6 @@
 # **DANIELA PIKUR**
+![Daniela Pikur - Photo](/photo.png)
+
 ## **Contact information:**
 - **Phone:** +7-923-149-29-56
 - **Email:** daniela.pikur@gmail.com
