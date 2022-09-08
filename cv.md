@@ -48,3 +48,33 @@ function testArray(a, b) {
     return sum;
 }
 ```
+---
+## **Experience**
+Company name | Location | Position | Time 
+--- | --- | --- | ---
+Метр Квадратный | Saint Petersburg, RU | Senior QA engineer | May 2022 - present
+DINS | Saint Petersburg, RU | QA engineer | August 2020 - May 2022
+
+
+My responsibilities include the entire software development quality assurance cycle:
+ - **REQUIREMENT ANALISYS:**
+    - research of requirements received from the product manager;
+     - clarification of gray areas, search for inconsistencies
+- **TEST DESIGN:**
+    - writing / updating test cases and checklists for new features;
+    - writing acceptance tests;
+    - creation of checklists for smoke tests, regression
+ - **TEST EXECUTION**
+ - **TEST AUTOMATION**
+
+--- 
+## **Education**
+### **Higher education**
+#### **Siberian State University of Telecommunications and Informatic sciences**
+2010 - 2015 - Economics and management at a communications enterprise
+
+---
+## **Languages**
+- Russian - Native
+- English - B2
+![Daniela Pikur - English Courses](/iqConsultancySert.jpeg)
